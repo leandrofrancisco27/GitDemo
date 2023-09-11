@@ -12,6 +12,12 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
+    /**
+     * Rigorous Test1 :-)
+     */
+    /**
+     * Rigorous Test2 :-)
+     */
     @Test
     public void shouldAnswerWithTrue()
     {
